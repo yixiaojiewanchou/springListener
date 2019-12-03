@@ -12,5 +12,4 @@
         <bean class="com.springListener.listener.SpringContextListener"></bean>
 
 
-
 </beans>
